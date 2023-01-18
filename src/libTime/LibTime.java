@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package midterm_1;
+package libTime;
 
 /**
  *
@@ -10,7 +10,7 @@ package midterm_1;
 /*
 main public class to run commands and test classes
 */
-public class Midterm_1
+public class LibTime
 {
     /**
      * @param args the command line arguments
