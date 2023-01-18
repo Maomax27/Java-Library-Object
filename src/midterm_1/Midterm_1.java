@@ -12,7 +12,6 @@ main public class to run commands and test classes
 */
 public class Midterm_1
 {
-
     /**
      * @param args the command line arguments
      */
